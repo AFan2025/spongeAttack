@@ -1,0 +1,1 @@
+{"starting_pop": 10, "max_generation": 2, "starting_len": 10, "num_sets": 10, "mutate": true, "pop_mutation_rate": 0.1, "prompt_mutation_rate": 0.1, "fitness_func": "latency", "evolution": "random_breeding"}
